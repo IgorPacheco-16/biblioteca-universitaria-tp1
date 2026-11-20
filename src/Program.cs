@@ -1,3 +1,6 @@
+// Igor Pacheco Santos
+// 26T4-ENG-R1C2N1L1-DVBE-L5
+
 using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
